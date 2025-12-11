@@ -1,4 +1,4 @@
-# 🏗️ End-to-End Data Engineering Project (Azure + Databricks + Spark + dbt)
+#  End-to-End Data Engineering Project (Azure + Databricks + Spark + dbt)
 
 This repository contains my implementation of a full **end-to-end Data Engineering pipeline** using **Azure Databricks, Apache Spark, Azure Data Factory (ADF), dbt**, and **ADLS Gen2** following a YouTube tutorial.
 
